@@ -1,0 +1,21 @@
+{
+  "name": "markup-boilerplate",
+  "description": "",
+  "main": "",
+  "authors": [
+    "dizhetskyi <dizhetskyi@corevalue.net>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "slick.js#^1.6.0",
+    "fancyBox": "^2.1.5"
+  }
+}
